@@ -1,0 +1,31 @@
+commit 648443497c12f6f0308e6ae1cbf77d13318438c7
+Author: ecruz <etc@njit.edu>
+Date:   Thu Sep 25 12:25:29 2025 -0400
+
+    Revert "Added a new file"
+    
+    This reverts commit 12c907f296c488d206b53ad512843c496e3301bf.
+
+commit 12c907f296c488d206b53ad512843c496e3301bf
+Author: ecruz <etc@njit.edu>
+Date:   Thu Sep 25 12:25:02 2025 -0400
+
+    Added a new file
+
+commit e0cd8760bd82c802815cedfceaec513f940fea51
+Author: ecruz <etc@njit.edu>
+Date:   Thu Sep 25 12:21:44 2025 -0400
+
+    Added note to group
+
+commit 2f757fc90f4983231fb1d923a66a7ae2861ef67f
+Author: ecruz <etc@njit.edu>
+Date:   Thu Sep 18 12:10:24 2025 -0400
+
+    Added hello! to os-release
+
+commit 33cd44dc70ccfde18ba1e9d7f95b400136de375d
+Author: ecruz <etc@njit.edu>
+Date:   Thu Sep 18 12:04:34 2025 -0400
+
+    Initial commit
